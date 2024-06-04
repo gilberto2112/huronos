@@ -25,7 +25,7 @@ WallpaperSha256=41b18ae724d646f6f023fa9a86a402aeac9637d247f9ba48718be4fb972a4935
 AllowedWebsites=omegaup.com|maxcdn.bootstrapcdn.com|samhebert.net|cdnjs.cloudflare.com|plataforma.karelogic.net|onlinegdb.com|www.cplusplus.com|
 AllowUsbStorage=false
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|
-Bookmarks={Contest^https://www.omegaup.com/arena/}|{Karelogic^https://plataforma.karelogic.net}|{GDB^https://www.onlinegdb.com}|{CPP^https://cplusplus.com}|
+Bookmarks={Contest^https://www.omegaup.com/arena/}|{Karelogic^https://plataforma.karelogic.net/}|{GDB^https://www.onlinegdb.com/}|{CPP^https://cplusplus.com/}|
 Wallpaper=https://www.olimpiadadeinformatica.org.mx/OMI/OMI/archivos/huronOS/modo_contest.png
 WallpaperSha256=afb4a12e5ba8b759f64b6a8cb65c2cffe23d8a49dabf2333d54357838ea49289
 
@@ -34,6 +34,7 @@ WallpaperSha256=afb4a12e5ba8b759f64b6a8cb65c2cffe23d8a49dabf2333d54357838ea49289
 2023-09-01T00:00:00 2023-10-01T00:00:00
 
 [Contest-Times]
+2024-03-08T15:00:00 2024-06-08T23:00:00
 2024-06-08T15:00:00 2024-06-08T19:00:00
 2024-06-15T15:00:00 2024-06-15T19:00:00
 2024-06-22T15:00:00 2024-06-22T19:00:00
